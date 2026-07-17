@@ -1,6 +1,6 @@
-# Modul Quiz TKJ 2026
+# Modul Quiz TJKT 2026
 
-Modul pembelajaran interaktif TKJ berbasis React dan TypeScript.
+Modul pembelajaran interaktif TJKT berbasis React dan TypeScript.
 
 ## Fitur
 
@@ -8,7 +8,7 @@ Modul pembelajaran interaktif TKJ berbasis React dan TypeScript.
 - Quiz Interaktif
 - Sound Effect
 - Responsive
-- Materi TKJ
+- Materi TJKT
 - Progress Belajar
 
 ## Teknologi
