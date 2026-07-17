@@ -129,12 +129,12 @@ const chapters = [
   },
   {
     id: 30,
-    title: "KARIER & MASA DEPAN TKJ",
+    title: "KARIER & MASA DEPAN TJKT",
     subtitle: "Revolusi Industri 5.0",
     icon: <BookOpen className="w-5 h-5" />,
     content: [
-      { type: "intro", text: "TKJ bukan sekadar pasang kabel atau servis PC. TKJ adalah gerbang menuju dunia teknologi! 🌍 Industri 5.0 adalah era dimana Manusia 👨 dan Teknologi/AI 🤖 bekerja BERSAMA." },
-      { type: "concept", title: "Profesi Anak TKJ", text: "🌐 Network Engineer: Mendesain & mengatur jaringan/router.\n🛡 Cyber Security: Melindungi data & ethical hacking.\n☁ Cloud Engineer: Mengelola server & cloud infrastructure.\n🤖 AI Engineer: Melatih model AI & Machine Learning.\n\n💡 Soft skill penting: Komunikasi, Kerja Sama, Problem Solving, dan kemauan terus belajar." }
+      { type: "intro", text: "TJKT bukan sekadar pasang kabel atau servis PC. TJKT adalah gerbang menuju dunia teknologi! 🌍 Industri 5.0 adalah era dimana Manusia 👨 dan Teknologi/AI 🤖 bekerja BERSAMA." },
+      { type: "concept", title: "Profesi Anak TJKT", text: "🌐 Network Engineer: Mendesain & mengatur jaringan/router.\n🛡 Cyber Security: Melindungi data & ethical hacking.\n☁ Cloud Engineer: Mengelola server & cloud infrastructure.\n🤖 AI Engineer: Melatih model AI & Machine Learning.\n\n💡 Soft skill penting: Komunikasi, Kerja Sama, Problem Solving, dan kemauan terus belajar." }
     ],
     quiz: [
       { question: "Revolusi Industri 5.0 merupakan...", options: ["Era mesin uap", "Era listrik", "Era manusia dan teknologi bekerja bersama", "Era komputer pertama"], answer: 2 },
@@ -273,7 +273,7 @@ export default function App() {
               <LayoutDashboard className="w-5 h-5 text-white" />
             </div>
             <div>
-              <h1 className="text-lg font-bold text-white leading-tight">TKJ SPMB</h1>
+              <h1 className="text-lg font-bold text-white leading-tight">TJKT SPMB</h1>
               <p className="text-xs font-medium text-blue-400">Modul Interaktif 2026</p>
             </div>
           </div>
