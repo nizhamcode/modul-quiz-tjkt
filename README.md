@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/tjktquizbanner.png">
+<img src="tjktquizbanner.png">
 </p>
 
 
