@@ -1,49 +1,77 @@
+# 📚 Modul Interaktif TJKT 2026
 
-##########################################################
+> Interactive Learning Module built with **React + TypeScript**
+> untuk siswa SMK Jurusan TJKT.
 
-        MODUL INTERAKTIF TJKT 2026
+---
 
-Belajar Networking • Linux • Hardware • Coding
+## 🎯 Tujuan Project
 
-##########################################################
+Project ini dibuat sebagai media pembelajaran interaktif untuk membantu siswa memahami materi TJKT melalui modul, kuis, dan simulasi.
 
-🚀 Modul pembelajaran interaktif TJKT untuk persiapan SPMB dan pembelajaran jaringan komputer.
+---
+## ✨ Features
 
-✨ Dibangun menggunakan React + TypeScript.
+- 🌙 Dark Mode
+- 📚 Materi Interaktif
+- 📝 Quiz
+- 🎯 Score System
+- 📱 Responsive Design
+- ⚡ Fast Performance
+- 💻 React + TypeScript
 
-📚 Berisi materi, quiz, simulasi, dan latihan.
+- ## 🛠 Tech Stack
 
-🎯 Cocok untuk siswa SMK Jurusan TJKT.
+| Technology | Description |
+|------------|-------------|
+| React | User Interface |
+| TypeScript | Programming Language |
+| Vite | Build Tool |
+| CSS | Styling |
+| GitHub Pages | Deployment |
 
-![React]
+## 📂 Folder Structure:
+src/
+assets/
+public/
+README.md
+LICENSE
 
-![TypeScript]
+---
 
-![License]
+# Langkah 5
 
-![GitHub stars]
+Tambahkan Installation
 
-![Last Commit]
+````markdown
+## 🚀 Installation
 
-![Repo Size]
+```bash
+git clone https://github.com/nizhamcode/modul-quiz-tjkt.git
 
-## Fitur
-
-- Dark Mode
-- Quiz Interaktif
-- Sound Effect
-- Responsive
-- Materi TJKT
-- Progress Belajar
-
-## Teknologi
-
-- React
-- TypeScript
-- Vite
-- Lucide React
-
-## Menjalankan
+cd modul-quiz-tjkt
 
 npm install
+
 npm run dev
+```
+
+## 📅 Roadmap
+
+- [x] README
+- [x] Dark Mode
+- [ ] Database
+- [ ] Login
+- [ ] Leaderboard
+- [ ] AI Quiz
+- [ ] Certificate
+---
+
+## 👨‍💻 Author
+
+**Abdullah Nizham**
+
+SMKN 1 Rangkasbitung — TJKT
+
+GitHub:
+https://github.com/nizhamcode
