@@ -1,10 +1,34 @@
 # 📚 Modul Interaktif TJKT 2026
 
+![React](https://img.shields.io/badge/React-19-blue?logo=react)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)
+
+![License](https://img.shields.io/badge/License-MIT-green)
+
+![Status](https://img.shields.io/badge/Status-Development-orange)
+
+![SMK](https://img.shields.io/badge/SMKN%201-Rangkasbitung-red)
+
+
 > Interactive Learning Module built with **React + TypeScript**
 > untuk siswa SMK Jurusan TJKT.
 
 ---
 
+## 📑 Daftar Isi
+
+- 🎯 Tujuan Project
+- ✨ Fitur
+- 🛠 Teknologi
+- 📂 Struktur Folder
+- 🚀 Instalasi
+- 📸 Preview
+- 🗺 Roadmap
+- 🤝 Kontribusi
+- 📜 Lisensi
+
+  
 ## 🎯 Tujuan Project
 
 Project ini dibuat sebagai media pembelajaran interaktif untuk membantu siswa memahami materi TJKT melalui modul, kuis, dan simulasi.
@@ -73,5 +97,6 @@ npm run dev
 
 SMKN 1 Rangkasbitung — TJKT
 
+docs: redesign README with professional documentation
 GitHub:
 https://github.com/nizhamcode
