@@ -1,6 +1,30 @@
-# Modul Quiz TJKT 2026
 
-Modul pembelajaran interaktif TJKT berbasis React dan TypeScript.
+##########################################################
+
+        MODUL INTERAKTIF TJKT 2026
+
+Belajar Networking • Linux • Hardware • Coding
+
+##########################################################
+🚀 Modul pembelajaran interaktif TJKT untuk persiapan SPMB dan pembelajaran jaringan komputer.
+
+✨ Dibangun menggunakan React + TypeScript.
+
+📚 Berisi materi, quiz, simulasi, dan latihan.
+
+🎯 Cocok untuk siswa SMK Jurusan TJKT.
+
+![React]
+
+![TypeScript]
+
+![License]
+
+![GitHub stars]
+
+![Last Commit]
+
+![Repo Size]
 
 ## Fitur
 
