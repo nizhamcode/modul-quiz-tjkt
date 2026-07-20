@@ -1,3 +1,20 @@
+<p align="center">
+<img src="assets/tjktquizbanner.png">
+</p>
+## 📸 Preview
+
+Home
+
+![Home](assets/home.png)
+
+Quiz
+
+![Quiz](assets/quiz.png)
+
+Dark Mode
+
+![Dark](assets/darkmode.png)
+
 # 📚 Modul Interaktif TJKT 2026
 
 ![React](https://img.shields.io/badge/React-19-blue?logo=react)
